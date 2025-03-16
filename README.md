@@ -20,7 +20,7 @@ Due to limited hardware, the following optimizations were implemented:
 - **Quantization**: 4-bit quantization with `bitsandbytes`
 - **LoRA (Low-Rank Adaptation)**: Used for fine-tuning to reduce memory consumption
 - **Gradient Accumulation**: Implemented to simulate larger batch sizes
-- 
+  
 
 ## **Next Steps**
 - Train for **more steps** using a better hardware setup
